@@ -1,0 +1,1 @@
+pyuic6 -x signup.ui -o signup.py
